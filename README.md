@@ -6,6 +6,6 @@ Under construction
 2. Tools to **interactively study** the **Nernst** and **Goldman-Hodgkin-Katz (GHK)** equations by changing the parameters:
 
 
-* [**Nernst Equation Tool**](https://github.com/darshanmandge/python/nernst_eqn_slider.py)
+* [**Nernst Equation Tool**](https://github.com/darshanmandge/python/blob/master/nernst_eqn_slider.py)
 
-* [**GHK Equation Tool**](https://github.com/darshanmandge/python/ghk_eqn_slider.py)
+* [**GHK Equation Tool**](https://github.com/darshanmandge/python/blob/master/ghk_eqn_slider.py)
