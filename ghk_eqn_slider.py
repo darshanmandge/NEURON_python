@@ -43,7 +43,7 @@ plt.title('GHK Equation V$_m$ vs [K]$_o$ for different parameters')
 
 axcolor = 'lightgoldenrodyellow'
 # ko = plt.axes([0.25, 0.1, 0.65, 0.03], facecolor=axcolor)
-axiski = plt.axes([0.25, 0.1, 0.65, 0.03], facecolor=axcolor)
+axiski = plt.axes([0.25, 0.05, 0.65, 0.03], facecolor=axcolor)
 axisnai = plt.axes([0.25, 0.15, 0.65, 0.03], facecolor=axcolor)
 axisnao = plt.axes([0.25, 0.2, 0.65, 0.03], facecolor=axcolor)
 axisalpha = plt.axes([0.25, 0.25, 0.65, 0.03], facecolor=axcolor)
